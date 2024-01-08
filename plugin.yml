@@ -1,0 +1,6 @@
+name: Particles_uinqwe
+author: uinqwe (freakkk)
+version: 0.0.1
+
+main: particles\Particles
+api: 3.0.0
